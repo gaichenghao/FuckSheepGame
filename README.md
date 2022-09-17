@@ -31,8 +31,7 @@
 ### `QuanX` 脚本(**强烈推荐**)
 ```
 # 羊了个羊 通关
-https://raw.githubusercontent.com/gaichenghao/FuckSheepGame/main/sheep.js
-, tag=Sheep, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/gaichenghao/FuckSheepGame/main/sheep.js, tag=Sheep, update-interval=172800, opt-parser=true, enabled=true
 ```
 复制上面的代码，粘贴到`QuanX`配置文件的`[rewrite_remote]`下。如果没有添加过资源解析器，请在`[general]`下添加以下代码。
 
